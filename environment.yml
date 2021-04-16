@@ -1,4 +1,4 @@
-name: t20-tue-simpeg
+name: t21-tue-simpeg
 
 channels:
   - defaults
@@ -13,4 +13,4 @@ dependencies:
   - mkl
   - simpeg
   - pip:
-    geosci-labs
+    - geosci-labs
