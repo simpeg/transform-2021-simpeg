@@ -64,9 +64,7 @@ Then, we will work with a synthetic example to
 
 **Software**
 
-* Some knowledge of Python is assumed (for example, you might want to attend the
-  [getting started with python](https://transform2021.sched.com/event/c7Jm/getting-started-with-python) or
-  [more python for subsurface](https://transform2021.sched.com/event/c7Jn/more-python-for-subsurface) tutorials).
+* Some knowledge of Python is assumed.
 * All coding will be done in Jupyter notebooks. I'll explain how they work
   briefly but it will help if you've used them before.
 * We'll use [numpy](https://numpy.org/), [matplotlib](https://matplotlib.org/), and
@@ -75,14 +73,13 @@ Then, we will work with a synthetic example to
 
 **Geophysical Inversions**
 
-* This tutorial will focus on Direct Current (DC) Resistivity and Induced Polarization (IP).
-  I'll explain the basic principles, but if these are new to you, then I would recommend
-  taking a read through the [DC Resistivity](https://gpg.geosci.xyz/content/DC_resistivity/index.html)
-  and [Induced Polarization](https://gpg.geosci.xyz/content/induced_polarization/index.html) sections
-  of the [Geophysics for Practicing Geoscientists resource](https://gpg.geosci.xyz/index.html)
-* Similarly, I do not assume an extensive background in inversions, but it will help if you have been
-  introduced to some concepts. The [GIFTools Cookbook](https://giftoolscookbook.readthedocs.io/en/latest/content/fundamentals/index.html)
+* This tutorial will focus on providing fundamental concepts of the geophysical inversion. 
+  I do not assume an extensive background in inversions, but it will help if you have been
+  introduced to some concepts. The [Inversion Module](https://curvenote.com/@geosci/inversion-module/inverse-theory-overview)
   provides a nice overview.
+* As a motivating example, I will use magnetic mehod. 
+  I'll explain the basic principles, but if these are new to you, then I would recommend
+  taking a read through the [Magnetics](https://gpg.geosci.xyz/content/magnetics/index.html)
 
 ## Usage
 
@@ -154,7 +151,8 @@ If you run into issues, please post in the #t21-tue-simpeg slack channel.
 
 **Resources on Geophysics and Inversions**
 - [Geophysics for Practicing Geoscientists](https://gpg.geosci.xyz/)
-- Lectures from EOSC 350: Exploration & Environmental Geophysics ([2017](https://www.youtube.com/watch?v=C1U2okdfMbU&list=PLd9tNwsUm9jOhbLqjhjDW6ASqwRJtHTb5), [2018](https://www.youtube.com/watch?v=7kFPNooixyw&list=PLd9tNwsUm9jPrWrpdg1JHLieKrzK5w8_-))
+- [Inversion Module](https://curvenote.com/@geosci/inversion-module/inverse-theory-overview)
+- [SimPEG](https://www.simepg.xyz)
 
 **Resources on SimPEG**
 - [Docs](http://docs.simpeg.xyz/)
