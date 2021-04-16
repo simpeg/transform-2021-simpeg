@@ -9,19 +9,18 @@
 |         | Info |
 |--------:|:-----|
 | When    | Tuesday, June 9 • 12:00 - 15:00 UTC |
-| Slack   | [Software Underground](https://softwareunderground.org/) channel `t21-tue-simpeg` |
+| Slack   | [Software Underground](https://softwareunderground.org/) channel `t21-tue-inversion-for-geologists` |
 | YouTube | https://youtu.be/jZ7Sj9cnnso |
 | conda environment  | `t21-tue-simpeg` |
 | Intro Slides  | [SimPEG Transform presentation](https://docs.google.com/presentation/d/1Iw0chJUvjaiuGpQIqiYal719pcvWD2xs2z2aXkpQThQ/edit?usp=sharing) |
 
 **Team**
-- [Lindsey Heagy](http://github.com/lheagy) (Instructor)
-- [Seogi Kang](https://github.com/sgkang)
-- [Joe Capriotti](https://github.com/jcapriot)
-- [Dom Fournier](https://github.com/fourndo)
-- [John Kuttai](https://github.com/JKutt)
-- [Dieter Werthmüller](http://github.com/prisae)
+- [Seogi Kang](https://github.com/sgkang) (Instructor)
+- [Lindsey Heagy](http://github.com/lheagy) 
 - [Doug Oldenburg](http://github.com/dougoldenburg)
+- [Dom Fournier](https://github.com/fourndo)
+- [Joe Capriotti](https://github.com/jcapriot)
+- [Dieter Werthmüller](http://github.com/prisae)
 - and the [SimPEG contributors](https://github.com/simpeg/simpeg/graphs/contributors)
 
 ## Before the tutorial
@@ -29,10 +28,10 @@
 Make sure you've done these things before the tutorial on Tuesday:
 
 1. Sign-up for the [Software Underground Slack](https://softwareunderground.org/slack)
-1. Join the channel `t21-tue-simpeg`. This is where **all communication will happen**.
+1. Join the channel `t21-tue-inversion-for-geologists`. This is where **all communication will happen**.
 1. Set up your computer ([instructions below](#usage)). We will not have time to
    solve many computer issues during the tutorial so make sure you do this
-   ahead of time. If you need any help, ask at the `t21-tue-simpeg` channel on
+   ahead of time. If you need any help, ask at the `t21-tue-inversion-for-geologists` channel on
    Slack.
 1. If you have some data you'd like to process, please have it ready and make
    sure you can load it with pandas or numpy. You'll have some time at the end
@@ -94,7 +93,7 @@ There are a few things you'll need to follow the tutorial:
 To get things setup, please do the following.
 
 **If you have any trouble**, please ask for help in the
-`t21-tue-simpeg` channel on the Software Underground slack.
+`t21-tue-inversion-for-geologists` channel on the Software Underground slack.
 
 **Windows users:** When you see "*terminal*" in the instructions,
 this means the "*Anaconda Prompt*" program for you.
