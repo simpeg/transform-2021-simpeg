@@ -8,11 +8,11 @@
 
 |         | Info |
 |--------:|:-----|
-| When    | Tuesday, June 9 • 12:00 - 15:00 UTC |
+| When    | Tuesday, April 20 • 20:00 - 22:00 UTC |
 | Slack   | [Software Underground](https://softwareunderground.org/) channel `t21-tue-inversion-for-geologists` |
-| YouTube | https://youtu.be/jZ7Sj9cnnso |
+| YouTube | https://youtu.be/5MiaebDwWUQ |
 | conda environment  | `t21-tue-simpeg` |
-| Intro Slides  | [SimPEG Transform presentation](https://docs.google.com/presentation/d/1Iw0chJUvjaiuGpQIqiYal719pcvWD2xs2z2aXkpQThQ/edit?usp=sharing) |
+| Slides  | [SimPEG Transform presentation](XXX) |
 
 **Team**
 - [Seogi Kang](https://github.com/sgkang) (Instructor)
@@ -39,12 +39,15 @@ Make sure you've done these things before the tutorial on Tuesday:
 
 ## Summary
 
-This repo contains the notebooks and tutorial resources for the Transform 2021 tutorial on Simulations and inversions with SimPEG.
+This repo contains the notebooks and tutorial resources for the Transform 2021 tutorial on Inversion for Geologists. 
 
-- [Session Description](https://transform2021.sched.com/event/cD5V/tutorial-geophysical-inversion-in-simpeg)
-- [Intro Slides](https://docs.google.com/presentation/d/1Iw0chJUvjaiuGpQIqiYal719pcvWD2xs2z2aXkpQThQ/edit?usp=sharing)
+- [Slides](XXX)
 
-In this tutorial, we will provide a hand-on overview of using SimPEG to simulate and invert geophysical data. The examples we plan to work through use Direct Current (DC) Resistivity and Induced Polarization (IP) data from the Century Zinc Deposit in Australia.
+In this tutorial, we will provide fundamental concepts about the inversion framework. As a motivating example, 
+we will use the magnetic data acquired at [Raglan deposits](https://en.wikipedia.org/wiki/Raglan_Mine) in Northern Quebec, Candada. 
+About 20 years ago, this magnetic data set was inverted in 3D (sort of the first time), and resulting susceptiblity model 
+played an imporant role for spotting a drill hole, which found mineralized zones. 
+
 
 Starting from field data in a text file we will learn how to
 - load those data into SimPEG
