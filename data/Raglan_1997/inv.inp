@@ -1,0 +1,13 @@
+1  60             !! irest, maxit
+50               !! ndpt, number of subspace vectors
+27.0              !! chifact
+mesh          !! mesh
+null             !! topo.idx; default=null
+maginv3d.mtx     !! sensitivity
+obs.mag         !! obs.mag
+maginv3d.wtw     !! weighting matrix
+null             !! reference model
+null             !! initial model
+0.0005 0.02
+0
+1
