@@ -11,4 +11,6 @@ dependencies:
   - jupyter
   - ipywidgets>=0.6.0
   - mkl
-  - simpeg==0.14.1
+  - simpeg
+  - pip
+    geosci-labs
