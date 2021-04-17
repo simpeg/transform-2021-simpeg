@@ -13,4 +13,4 @@ dependencies:
   - mkl
   - simpeg
   - pip:
-    - geosci-labs
+    - git+https://github.com/geoscixyz/geosci-labs
