@@ -12,5 +12,6 @@ dependencies:
   - ipywidgets>=0.6.0
   - mkl
   - simpeg
+  - pyvista
   - pip:
     - git+https://github.com/geoscixyz/geosci-labs
