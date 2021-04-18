@@ -33,7 +33,6 @@ jobs:
         conda env create -f environment.yml
         source activate t21-tue-simpeg
         pip install -r requirements_dev.txt
-        pip install git+https://github.com/geoscixyz/geosci-labs
 
     - name: Run Tests
       shell: bash
