@@ -3,7 +3,6 @@
 # Transform 2021: Inversion for Geologists
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simpeg/transform-2021-simpeg/HEAD)
-[![Build Status](https://travis-ci.org/simpeg/transform-2021-simpeg.svg?branch=master)](https://travis-ci.org/simpeg/transform-2021-simpeg)
 [![License](https://img.shields.io/github/license/simpeg/transform-2021-simpeg.svg)](https://github.com/simpeg/transform-2021-simpeg/blob/master/LICENSE)
 
 |         | Info |
