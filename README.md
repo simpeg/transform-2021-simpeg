@@ -40,7 +40,7 @@ Make sure you've done these things before the tutorial on Tuesday:
 
 This repo contains the notebooks and tutorial resources for the Transform 2021 tutorial on Inversion for Geologists. 
 
-- [Slides](XXX)
+- [Slides](http://bit.ly/transform-2021-slides)
 
 In this tutorial, we will provide fundamental concepts about the inversion framework. As a motivating example, 
 we will use the magnetic data acquired at [Raglan deposits](https://en.wikipedia.org/wiki/Raglan_Mine) in Northern Quebec, Candada. 
