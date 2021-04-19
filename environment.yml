@@ -1,8 +1,9 @@
 name: t21-tue-simpeg
 
 channels:
-  - defaults
   - conda-forge
+  - defaults
+
 dependencies:
   - python>=3.6
   - numpy
