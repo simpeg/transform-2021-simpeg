@@ -39,9 +39,6 @@ Make sure you've done these things before the tutorial on Tuesday:
 ## Summary
 
 This repo contains the notebooks and tutorial resources for the Transform 2021 tutorial on Inversion for Geologists. 
-
-- [Slides](http://bit.ly/transform-2021-slides)
-
 In this tutorial, we will provide fundamental concepts about the inversion framework. As a motivating example, 
 we will use the magnetic data acquired at [Raglan deposits](https://en.wikipedia.org/wiki/Raglan_Mine) in Northern Quebec, Candada. 
 About 20 years ago, this magnetic data set was inverted in 3D (sort of the first time), and resulting susceptiblity model 
@@ -78,7 +75,7 @@ Then, we will work with a synthetic example to
   provides a nice overview.
 * As a motivating example, I will use magnetic mehod. 
   I'll explain the basic principles, but if these are new to you, then I would recommend
-  taking a read through the [Magnetics](https://gpg.geosci.xyz/content/magnetics/index.html)
+  taking a read through the [Magnetics](https://gpg.geosci.xyz/content/magnetics/index.html).
 
 ## Usage
 
@@ -99,9 +96,7 @@ this means the "*Anaconda Prompt*" program for you.
 
 ### Step 1: Python
 
-**Follow the general instructions for Transform2021:** http://swu.ng/t21-python-setup
-(there are also YouTube videos of [Windows](https://youtu.be/FdatS_NKVrM)
-and [Linux](https://youtu.be/3ncwbHyZeAg))
+**Follow the general instructions for Transform2021:** https://www.youtube.com/playlist?list=PLgLft9vxdduAW-jmhYqXvtfGYJS6v2FjM
 
 This will get you a working Python 3 installation with the `conda` package
 manager. If you already have one, you can skip this step.
