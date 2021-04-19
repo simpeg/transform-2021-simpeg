@@ -9,8 +9,8 @@ NBDIR = os.path.sep.join(
 
 IGNORE = [
     "1-magnetic-inversion-raglan-reproduce",
-    "3-magnetic-inversion-raglan-lp.ipynb",
-    "2-linear-inversion-app.ipynb"
+    "3-magnetic-inversion-raglan-lp",
+    "2-linear-inversion-app"
 ]
 
 Test = testipynb.TestNotebooks(directory=NBDIR, timeout=2800)
