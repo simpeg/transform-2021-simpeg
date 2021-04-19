@@ -14,6 +14,7 @@ IGNORE = [
 ]
 
 Test = testipynb.TestNotebooks(directory=NBDIR, timeout=2800)
+Test.ignore = IGNORE
 TestNotebooks = Test.get_tests()
 
 if __name__ == "__main__":
