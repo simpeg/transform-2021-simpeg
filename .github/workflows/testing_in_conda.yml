@@ -30,7 +30,7 @@ jobs:
       shell: bash
       run: |
         python --version
-        conda env create -f environment.yml
+        conda env create -f environment_for_test.yml
         source activate t21-tue-simpeg
         pip install -r requirements_dev.txt
 
