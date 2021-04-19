@@ -16,4 +16,4 @@ dependencies:
   - pyvista
   - pip
   - pip:
-    git+https://github.com/geoscixyz/geosci-labs.git@master  
+      git+https://github.com/geoscixyz/geosci-labs.git@master  
