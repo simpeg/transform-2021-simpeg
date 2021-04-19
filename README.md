@@ -11,7 +11,7 @@
 | Slack   | [Software Underground](https://softwareunderground.org/) channel `t21-tue-inversion-for-geologists` |
 | YouTube | https://youtu.be/5MiaebDwWUQ |
 | conda environment  | `t21-tue-simpeg` |
-| Slides  | [SimPEG Transform presentation](XXX) |
+| Slides  | [SimPEG Transform presentation](http://bit.ly/transform-2021-slides) |
 
 **Team**
 - [Seogi Kang](https://github.com/sgkang) (Instructor)
