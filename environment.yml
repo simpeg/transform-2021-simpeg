@@ -14,6 +14,6 @@ dependencies:
   - mkl
   - simpeg
   - pyvista
-  - dask
+  - dask 
   - pip:
     - git+https://github.com/geoscixyz/geosci-labs.git
