@@ -14,4 +14,4 @@ dependencies:
   - mkl
   - simpeg
   - pyvista
-  
+  - dask
