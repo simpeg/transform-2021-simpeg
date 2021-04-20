@@ -152,7 +152,7 @@ If you run into issues, please post in the #t21-tue-simpeg slack channel.
 - [Docs](http://docs.simpeg.xyz/)
 - [Discourse](http://simpeg.discourse.group/)
 - [Slack](http://slack.simpeg.xyz/)
-- [This Tutorial](https://github.com/simpeg/transform-2021-tutorial/)
+- [This Tutorial](https://github.com/simpeg/transform-2021-simpeg/)
 
 
 ## License
